@@ -1,0 +1,9 @@
+Link para download do Git para Windows: https://gitforwindows.org/
+
+- Criar um novo repositório no Github com o nome que desejar
+
+- Clicar na pasta criada no computador com o botão direito e clicar em Git Bash Here
+
+- Digitar o comando git clone e colar o endereço do repositório copiado no git
+
+- É automaticamente criado a README.mb e uma pasta .git
