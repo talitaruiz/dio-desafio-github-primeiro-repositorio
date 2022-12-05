@@ -7,3 +7,11 @@ Link para download do Git para Windows: https://gitforwindows.org/
 - Digitar o comando git clone e colar o endereço do repositório copiado no git
 
 - É automaticamente criado a README.mb e uma pasta .git
+ 
+- Para o git entender que queremos enviar essa pasta para o controle de versão, digitamos git add .
+
+- Digitar git commit -m "Inclusão das anotações do curso de GitHub", assim criar um commit
+
+- Digitar git push origin main
+
+Dessa forma estamos enviando todos os commits que temos localmente para a nuvem
